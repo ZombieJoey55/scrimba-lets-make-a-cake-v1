@@ -1,4 +1,4 @@
-This is the original project for the **Introduction** -> **Learn the Platform** module.
+This is the **original** project for the **Introduction** -> **Learn the Platform** module.
 
 # Getting Started
 
